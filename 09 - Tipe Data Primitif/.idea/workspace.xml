@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a835cae-22e8-49b4-80b5-cfac22a6f7a8" name="Default Changelist" comment="" />
+    <list default="true" id="3a835cae-22e8-49b4-80b5-cfac22a6f7a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11 -  Konversi tipe data/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11 -  Konversi tipe data/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 - Operator Bitwise/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 - Operator Bitwise/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 - Operator Bitwise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 - Operator Bitwise/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 - Operator Bitwise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 - Operator Bitwise/16 - Operator Bitwise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 - Operator Bitwise/src/com/tutorial/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tutorial/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tutorial/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 -  Konversi tipe data/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../11 -  Konversi tipe data/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 -  Konversi tipe data/out/production/11 -  Konversi tipe data/com/tutorial/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../11 -  Konversi tipe data/out/production/11 -  Konversi tipe data/com/tutorial/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 -  Konversi tipe data/src/com/tutorial/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../11 -  Konversi tipe data/src/com/tutorial/Main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +35,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1RaAlkYErvNm8ynBUXWQcoSpNl7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
   </component>
   <component name="RunDashboard">
@@ -66,5 +88,16 @@
       <updated>1569894986147</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -7,7 +7,7 @@ public class Main {
         System.out.println("Nilai int = " + nilaiInt);
         //memperluas rentang ke tipe data yang lebih besar
         long nilaiLong = nilaiInt;
-        System.out.println("Niilai long = " + nilaiLong);
+        System.out.println("Nilai long = " + nilaiLong);
         //memperkecil rentang ke tipe data yang lebih kecil
         byte nilaiByte = (byte) nilaiInt; //casting operator untuk mengkorversi type data
         System.out.println("nilai byte = " + nilaiByte);
