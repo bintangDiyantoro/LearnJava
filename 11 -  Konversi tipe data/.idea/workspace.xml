@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45d04b30-2fc8-4b8c-a669-607078376abb" name="Default Changelist" comment="" />
+    <list default="true" id="45d04b30-2fc8-4b8c-a669-607078376abb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 - Operator Bitwise/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 - Operator Bitwise/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 - Operator Bitwise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 - Operator Bitwise/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 - Operator Bitwise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 - Operator Bitwise/16 - Operator Bitwise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 - Operator Bitwise/src/com/tutorial/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tutorial/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tutorial/Main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +27,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Rr1H6la1zLjDs34rSMqXod7u2U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunDashboard">
@@ -63,5 +80,16 @@
       <updated>1570410309971</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

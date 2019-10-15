@@ -44,7 +44,7 @@ public class Main {
         System.out.println("Besar double = " + Double.BYTES);
         System.out.println("Besar double = " + Double.SIZE);
         //float(koma, bilangan real)
-        float f = -9.5f;
+        float f = 9.5f;
         System.out.println("========FLOAT========");
         System.out.println("Nilai float f = " + f);
         System.out.println("Nilai max = " + Float.MAX_VALUE);
